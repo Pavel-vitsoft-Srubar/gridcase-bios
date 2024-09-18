@@ -99,3 +99,7 @@ these three sections:
  * Prefix field: <https://euroassembler.eu/eadoc/index.htm#StmentPrefix>
  * Register expressions: <https://euroassembler.eu/eadoc/index.htm#RegisterExpressions>
  * Address expressions: <https://euroassembler.eu/eadoc/index.htm#AddressExpressions>
+
+The bug mentioned in README.txt line 93 (ignored segment override when no register is referenced) 
+was fixed in EuroAssembler version 20240831, see also <https://euroassembler.eu/eatests/t3021.htm>.
+vitsoft
